@@ -2,5 +2,7 @@
   "name": "Jawaharlal Nehru Archival Monograph",
   "description": "A digital museum exhibition and curatorial monograph dedicated to Jawaharlal Nehru, featuring the 1956 Yousuf Karsh portrait study, the Tryst with Destiny address, chronological state archives, and photographic provenance records.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
